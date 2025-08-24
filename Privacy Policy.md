@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** August 24, 2025
+**Effective Date:** August 24, 2026
 
 This Privacy Policy applies to the Leben in Deutschland Exam Prep App ("App") for Android and iOS, developed by Velnova Software Solutions. We respect your privacy and comply with Google Play and Apple App Store guidelines.
 
